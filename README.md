@@ -4,4 +4,5 @@ Also included, all the subjects (in french) and resources needed to get ready fo
 I have left the main folder for testing purpose.
 Warning : everything is not guaranteed Moulinette proof. Check the grades below to estimate how credencial the code is.
 This work if far from beeing flawless. But it was mine at this time, and it got me accepted in 42.
-https://raw.githubusercontent.com/rotrojan/piscine_c/master/final_grade.png
+![Screen Shot 2019-11-19 at 6 46 55 PM](https://raw.githubusercontent.com/rotrojan/piscine_c/master/final_grade.png
+)
